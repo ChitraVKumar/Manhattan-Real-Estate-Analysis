@@ -130,14 +130,33 @@ python src/manhattan_analysis.py
 
 ## 📊 Sample Visualizations
 
-### Price Distribution by Neighborhood
-*Analysis of median sale prices across different Manhattan neighborhoods*
+### Neighborhood Price Analysis
+![Neighborhood Analysis](visualizations/neighborhood_analysis.png)
+*Comprehensive analysis of median sale prices and transaction volumes across Manhattan neighborhoods*
 
-### Correlation Heatmap
-*Relationships between property features and sale prices*
+### Feature Correlation Matrix
+![Correlation Matrix](visualizations/correlation_matrix.png)
+*Statistical correlation analysis revealing key relationships between property features and sale prices*
 
-### Clustering Results
-*K-means segmentation of properties into market categories*
+### Property Type Distribution & Performance
+![Property Analysis](visualizations/property_analysis.png)
+*Market composition analysis with pricing performance by property category*
+
+### Time Series Market Trends
+![Time Series](visualizations/time_series.png)
+*Monthly price trends and transaction volume analysis over time*
+
+### Machine Learning Market Segmentation
+![Clustering Analysis](visualizations/clustering_analysis.png)
+*K-means clustering results identifying distinct market segments*
+
+### ML Model Performance Analysis
+![ML Performance](visualizations/ml_performance.png)
+*Random Forest regression model evaluation with feature importance analysis*
+
+### Executive Summary Dashboard
+![Executive Dashboard](visualizations/executive_summary.png)
+*High-level business intelligence dashboard with key metrics and trends*
 
 ## 🔍 Technical Skills Demonstrated
 
